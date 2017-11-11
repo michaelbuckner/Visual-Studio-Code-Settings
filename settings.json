@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 13.5,
+    "editor.fontFamily": "Hack",
+    "editor.fontLigatures": true,
+    "editor.parameterHints": false,
+    "terminal.integrated.fontFamily": "Hack",
+    "terminal.integrated.fontSize": 13.5
+}
